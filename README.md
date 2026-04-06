@@ -1,8 +1,8 @@
-# LING 471 Course Materials
+# LING 471 Spring 2026 Course Materials
 
-This repository contains student-facing materials for LING 471 at the University of Washington.
+This repository contains materials for LING 471 Spring 2026 at the University of Washington.
 
-The initial structure and some baseline materials are adapted from an earlier course repository used by a previous instructor. Materials in this repository may be updated, reorganized, or replaced during the quarter.
+The materials are adapted from previous instructors Olga Zamaraeva and Matt Kelley. 
 
 Top-level contents:
 
