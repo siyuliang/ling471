@@ -4,7 +4,7 @@ This repository contains materials for LING 471 Spring 2026 at the University of
 
 The materials are adapted from previous instructors Olga Zamaraeva and Matt Kelley. 
 
-Top-level contents:
+Directory structure:
 
 - `assignments/` course assignments and starter files
 - `demos/` in-class demo code and notebooks
