@@ -6,6 +6,7 @@ aclImdb/
 aclImdb*/
 aclImdb*.zip
 aclImdb*.tar.gz
+demos/4_09/class_corpus.txt
 
 # Unreleased images
 imgs/a2_initial_breakpoint.png
