@@ -9,3 +9,5 @@ Directory structure:
 - `assignments/` course assignments and starter files
 - `demos/` in-class demo code and notebooks
 - `imgs/` images referenced by course materials
+
+Updated April 6, 2026

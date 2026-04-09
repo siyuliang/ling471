@@ -32,7 +32,7 @@ ranks = range(1, len(frequencies) + 1)
 plt.figure(figsize=(8,6))
 plt.scatter(ranks, frequencies, s=10)
 
-plt.xscale("log")
+plt.xscale("linear")
 plt.yscale("log")
 
 plt.xlabel("Rank")

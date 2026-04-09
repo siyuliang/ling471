@@ -1,5 +1,5 @@
 year = 2026
-number = 'one'
+number = 'two'
 
 print('The number is:', number)
 
