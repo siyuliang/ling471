@@ -33,9 +33,10 @@ demos/4_21/4_21_demo.ipynb
 demos/4_23/4_23_demo.ipynb
 demos/4_30/demo_4_30.ipynb
 demos/5_5/*.txt
-demos/5_5/trigram_solution.py
 demos/5_5/cars.csv
-demos/5_7/
+demos/5_7/exercise_5_7.ipynb
+demos/5_7/linear_regression_demo_code.py
+demos/5_7/experiment_data.txt
 demos/5_12/
 demos/5_14/
 demos/5_19/
