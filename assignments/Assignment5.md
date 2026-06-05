@@ -10,7 +10,7 @@ Now we are going to step back and think carefully about the tool that nearly eve
 
 ### A study to keep in mind
 
-Recall the [Xiao et al. (2025)](https://arxiv.org/abs/2509.21890) study mentioned in the syllabus. It found that **technical expertise, not AI familiarity, was the only significant predictor of homework performance**, even when every student had the same AI tool. Students with strong foundations wrote clearer prompts, gave better context, and used AI strategically. Students without that foundation used AI reactively, often getting stuck in loops of vague prompts that led nowhere. Keep this in the back of your mind as you work. You will return to it in Part 3.
+Recall the [Ma et al. (2025)](https://arxiv.org/abs/2509.21890) study mentioned in the syllabus. It found that **technical expertise, not AI familiarity, was the only significant predictor of homework performance**, even when every student had the same AI tool. Students with strong foundations wrote clearer prompts, gave better context, and used AI strategically. Students without that foundation used AI reactively, often getting stuck in loops of vague prompts that led nowhere. Keep this in the back of your mind as you work. You will return to it in Part 3.
 
 ### Submission summary
 
